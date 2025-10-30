@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # template
 # Mini-CRM
+# Mini-CRM
